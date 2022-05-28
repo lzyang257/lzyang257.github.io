@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "Research"
+permalink: /research/
 main_nav: true
 ---
 
