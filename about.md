@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{site.baseurl}}/assets/profile.jpg "at the Palazzo Massimo alle Terme"){:.profile}
 
-I am a Ph.D. student in homotopy theory. I also like to think about trace methods in K-theory and Grothendieck-Witt theory.
+I am a Ph.D. student in homotopy theory. I also like to think about trace methods in K-theory and Grothendieck-Witt theory and categorical dynamics. 
 
 My advisor is <a href="https://people.math.harvard.edu/~mjh/">Michael Hopkins</a>.
 

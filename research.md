@@ -2,7 +2,8 @@
 layout: page
 title: "Research & writing"
 permalink: /research-writing/
-main_nav: true
+main_nav: true 
+use_math: true
 ---
 
 {% for category in site.categories %}
@@ -29,14 +30,21 @@ main_nav: true
 
 <h3>In preparation</h3>
 <ol>
-  <li>Categorical dynamics on stable module categories</li>
   <li>A HKR-type theorem for real Hochschild homology</li>
 </ol>
 
-<h3>Preprint</h3>
+<h3>Preprints</h3>
+<details>
+<summary><a href="https://arxiv.org/abs/2212.09964">Categorical dynamics on stable module categories</a> (last updated December 2022)</summary>
+<p class="abstract"><i>Abstract:</i>  Let <i>A</i> be a finite connected graded cocommutative Hopf algebra over a field <i>k</i>.  
+  There is an endofunctor <tt>tw</tt> on the stable module category StMod<sub>A</sub> of <i>A</i> which twists the grading by 1. 
+  We show the categorical entropy of <tt>tw</tt> is zero.
+  We provide a lower bound for the categorical polynomial entropy of <tt>tw</tt> in terms of the Krull dimension of the cohomology of <i>A</i>, and an upper bound in terms of the existence of finite resolutions of <i>A</i>-modules of a particular form. 
+  We employ these tools to compute the categorical polynomial entropy of the twist functor for examples of finite graded Hopf algebras over $\mathbb{F}$<sub>2</sub>. </p>
+</details>
 <details>
 <summary><a href="https://arxiv.org/abs/2008.02821">A descent view on Mitchell's theorem</a> <i>with <a href="https://eldenelmanto.com/">Elden Elmanto</a> and <a href="https://homepages.uni-regensburg.de/~nad22969/">Denis Nardin</a></i></summary>
-<i>Abstract:</i> In this short note, we given a new proof of Mitchell's theorem that L<sub>T(n)</sub>K(ℤ)≅0 for n≥2. Instead of reducing the problem to delicate representation theory, we use recently established hyperdescent technology for chromatically-localized algebraic K-theory.
+<p class="abstract"><i>Abstract:</i> In this short note, we given a new proof of Mitchell's theorem that $L_{T(n)}K(\mathbb{Z}) \simeq 0$ for $n \geq 2$. Instead of reducing the problem to delicate representation theory, we use recently established hyperdescent technology for chromatically-localized algebraic K-theory.</p>
 </details>
 
 
