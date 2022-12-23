@@ -11,4 +11,4 @@ I am a Ph.D. student in homotopy theory. I also like to think about trace method
 
 My advisor is <a href="https://people.math.harvard.edu/~mjh/">Michael Hopkins</a>.
 
-A copy of my CV (last updated Sept 20, 2022) can be found [here]({{site.baseurl}}/assets/LYang%20curriculum%20vitae.pdf).
+A copy of my CV (last updated Dec 23, 2022) can be found [here]({{site.baseurl}}/assets/LYang%20curriculum%20vitae.pdf).
