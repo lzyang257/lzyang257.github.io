@@ -20,6 +20,20 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
+<tr><td>September 22</td>
+	<td>Jeremy Hahn</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>October 13</td>
+	<td>Noah Riggenbach</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 	</table>
 
 <a href="https://allenyuan.me/columbia-algebraic-topology-seminar/">Past seminars</a>
