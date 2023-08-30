@@ -11,7 +11,7 @@ use_math: true
 <table>
 <tr><td>Date</td> 
 	<td>Speaker</td>
-	<td>Title & Abstract</td>
+	<td style="width:60%">Title & Abstract</td>
 	</tr>
 <tr><td>September 15</td>
 	<td>Søren Galatius</td>
@@ -29,6 +29,13 @@ use_math: true
 	</tr>
 <tr><td>October 13</td>
 	<td>Noah Riggenbach</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>December 1</td>
+	<td>Liam Keenan</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
