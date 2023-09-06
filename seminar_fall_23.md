@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2023 Topology seminar
+title: Fall 2023 Algebraic topology seminar
 permalink: /organization-and-activities/seminar_fall2023/
 main_nav: true
 use_math: true
