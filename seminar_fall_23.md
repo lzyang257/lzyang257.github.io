@@ -16,8 +16,8 @@ use_math: true
 <tr><td>September 15</td>
 	<td><a href="https://sorengalatius.com/">Søren Galatius</a> (Copenhagen University) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Graph complexes in topology and algebraic geometry</summary>
+	<p class="abstract">In the 1990s, Kontsevich introduced certain rational chain complexes by an explicit presentation, known as graph complexes.  The come in a few flavors and have shown up in different parts of mathematics.  I will recall these chain complexes and explain how they showed up in joint work with Chan and Payne on the cohomology of moduli spaces of complex curves. </p>
 	</details></td>
 	</tr>
 <tr><td>September 22</td>
