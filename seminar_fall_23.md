@@ -34,6 +34,13 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
+<tr><td>October 20</td>
+	<td>Anh Hoang (University of Minnesota)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 <tr><td>November 10</td>
 	<td><a href="https://quigleyjd.github.io/">J.D. Quigley</a> (University of Virginia)</td>
 	<td><details> 
@@ -43,6 +50,13 @@ use_math: true
 	</tr>
 <tr><td>December 1</td>
 	<td><a href="https://sites.google.com/view/liam-keenan/home">Liam Keenan</a> (University of Minnesota)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>December 8</td>
+	<td><a href="https://www2.math.uni-wuppertal.de/~park/">Doosung Park</a> (University of Wuppertal)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
