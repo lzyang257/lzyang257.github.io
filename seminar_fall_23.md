@@ -35,7 +35,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>October 20</td>
-	<td>Anh Hoang (University of Minnesota)</td>
+	<td><a href="https://sites.google.com/view/htna/">Anh Hoang</a> (University of Minnesota)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -43,6 +43,13 @@ use_math: true
 	</tr>
 <tr><td>November 10</td>
 	<td><a href="https://quigleyjd.github.io/">J.D. Quigley</a> (University of Virginia)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>November 17</td>
+	<td><a href="https://people.math.harvard.edu/~piotr/">Piotr Pstrągowski</a> (Harvard University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
