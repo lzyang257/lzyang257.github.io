@@ -30,8 +30,8 @@ use_math: true
 <tr><td>October 13</td>
 	<td><a href="https://sites.google.com/view/riggenbachn">Noah Riggenbach</a> (Northwestern University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>$\mathrm{K}_n$-regularity propagation</summary>
+	<p class="abstract"><i>Abstract:</i>  It has been known for a while that NK, the obstruction of K-theory being $\mathbb{A}^1$ homotopy invariant, and regularity are closely connected. One of the first results Quillen proved after defining higher algebraic K-theory of exact categories was that NK of regular rings vanishes. This has lead many people to use NK and related objects to measure how bad singularities are, such as the notion of $K_n$ regularity for all integers n. In this talk I will review some of these ideas and definitions and talk about work, joint with Elden Elmanto, which gives new proofs of results of Cortiñas-Haesemeyer-Weibel, Davis, and Vorst and generalizes them to derived qcqs schemes. </p>
 	</details></td>
 	</tr>
 <tr><td>October 20</td>
@@ -50,6 +50,13 @@ use_math: true
 	</tr>
 <tr><td>November 10</td>
 	<td><a href="https://quigleyjd.github.io/">J.D. Quigley</a> (University of Virginia)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>November 17</td>
+	<td><a href="https://sites.google.com/view/sarahpetersen/home">Sarah Petersen</a> (University of Colorado)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
