@@ -37,8 +37,8 @@ use_math: true
 <tr><td>October 20</td>
 	<td><a href="https://sites.google.com/view/htna/">Anh Hoang</a> (University of Minnesota)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Configuration spaces and applications in arithmetic statistics</summary>
+	<p class="abstract"><i>Abstract:</i> In the last dozen years, topological methods have been shown to produce a new pathway to study arithmetic statistics over function fields, most notably in Ellenberg-Venkatesh-Westerland's work on the Cohen-Lenstra conjecture. More recently, Ellenberg, Tran and Westerland proved the upper bound in Malle's conjecture on the enumeration of function fields by studying the homology of configuration spaces with certain exponential coefficients. In this talk, we will extend their framework to study the twisted homology of various configuration spaces. As an application, we study character sums of the resultant of monic squarefree polynomials over finite fields, answering and generalizing a question of Ellenberg and Shusterman, and Malle's conjecture with prescribed ramification. </p>
 	</details></td>
 	</tr>
 <tr><td>October 27</td>
