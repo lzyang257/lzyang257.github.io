@@ -44,8 +44,8 @@ use_math: true
 <tr><td>October 27</td>
 	<td><a href="https://people.math.harvard.edu/~piotr/">Piotr Pstrągowski</a> (Harvard University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>The even filtration and prismatic cohomology </summary>
+	<p class="abstract"><i>Abstract:</i> The even filtration, introduced by Hahn-Raksit-Wilson, is a canonical filtration attached to a commutative ring spectrum which measures its failure to be even. Despite its simple definition, the even filtration recovers many arithmetically important constructions, such as the Adams-Novikov filtration of the sphere or the Bhatt-Morrow-Scholze filtration on topological Hochschild homology, showing that they are all invariants of the commutative ring spectrum alone. I will describe a linear variant of the even filtration which is naturally defined on associative rings and can be effectively calculated through resolutions of modules, as well as joint work with Raksit on the resulting extension of prismatic cohomology to the context of E_2-rings </p>
 	</details></td>
 	</tr>
 <tr><td>November 10</td>
