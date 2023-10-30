@@ -51,8 +51,8 @@ use_math: true
 <tr><td>November 10</td>
 	<td><a href="https://quigleyjd.github.io/">J.D. Quigley</a> (University of Virginia)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Geometry of exotic spheres via quaternionic Mahowald invariants</summary>
+	<p class="abstract"><i>Abstract:</i> An exotic sphere is a smooth manifold which is homeomorphic, but not diffeomorphic, to a sphere with its standard smooth structure.  There are many exotic spheres, but even after decades of study, many simple-sounding questions about their geometry remain unanswered. Can you rotate an exotic sphere? Are exotic spheres round? In this talk, I will summarize what is known about the geometry of exotic spheres. I will then discuss how the Mahowald invariant, a construction from stable homotopy theory, can be used to detect smooth effective U(1)- and Sp(1)-actions on exotic spheres. This is joint work with Boris Botvinnik. </p>
 	</details></td>
 	</tr>
 <tr><td>November 17</td>
