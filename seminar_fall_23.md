@@ -58,8 +58,8 @@ use_math: true
 <tr><td>November 17</td>
 	<td><a href="https://sites.google.com/view/sarahpetersen/home">Sarah Petersen</a> (University of Colorado)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Hopf rings and computations in equivariant homotopy theory</summary>
+	<p class="abstract"><i>Abstract:</i> Hopf algebras arise naturally from the homology of spaces with multiplications (i.e. H-spaces or "Hopf" spaces). When spaces have additional structure, this is reflected in homology. For example, the spaces classifying homology theories have a structure mimicking that of a graded ring. In turn, their homology has the structure of a Hopf ring, which is a graded ring in the category of coalgebras. This talk will survey some of the ways Hopf rings lead to computational techniques and elegant descriptions of answers in algebraic topology. It will also describe work in progress and early results in a program focusing on Hopf rings and computations in equivariant homotopy theory. </p>
 	</details></td>
 	</tr>
 <tr><td>December 1</td>
