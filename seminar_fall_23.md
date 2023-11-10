@@ -72,8 +72,8 @@ use_math: true
 <tr><td>December 8</td>
 	<td><a href="https://www2.math.uni-wuppertal.de/~park/">Doosung Park</a> (University of Wuppertal)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Real topological Hochschild homology of schemes</summary>
+	<p class="abstract"><i>Abstract:</i> The trace map from K to THH can be enriched to the real trace map from KR to THR. After taking the $\mathbb{Z}/2$-fixed point functor, this induces the Hermitian trace map from GW to $\mathrm{THR}^{\mathbb{Z}/2}$. Through the real trace map, THR should carry some information about KR and GW as THH does about K. In this talk, I will explain that THR satisfies the isovariant etale base change property, which leads to defining THR of schemes. As an application, I will explain a natural complete filtration on real Hochschild homology of smooth algebra. This work is joint with Jens Hornbostel.</p>
 	</details></td>
 	</tr>
 	</table>
