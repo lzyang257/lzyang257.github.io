@@ -65,8 +65,8 @@ use_math: true
 <tr><td>December 1</td>
 	<td><a href="https://sites.google.com/view/liam-keenan/home">Liam Keenan</a> (University of Minnesota)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary> A chromatic vanishing result for TR </summary>
+	<p class="abstract"><i>Abstract:</i> Over the past few years, there has been enormous progress in our understanding of the interaction between chromatic homotopy theory and trace methods. I will survey some of these recent developments and explain applications to topological restriction homology. All original results are joint with Jonas McCandless. </p>
 	</details></td>
 	</tr>
 <tr><td>December 8</td>
