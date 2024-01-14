@@ -34,8 +34,22 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i>  </p>
 	</details></td>
 	</tr>
+<tr><td>February 16</td>
+	<td><a href="https://tmoulinos.com/">Tasos Moulinos</a> (CNRS/IAS)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i>  </p>
+	</details></td>
+	</tr>
 <tr><td>February 23</td>
 	<td><a href="https://personal.math.ubc.ca/~smondal/">Shubhodip Mondal</a> (IAS)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>April 12</td>
+	<td><a href="https://www.math.columbia.edu/~ahickok/">Abigail Hickok</a> (Columbia)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
