@@ -5,7 +5,7 @@ permalink: /organization-and-activities/seminar_spring2024/
 main_nav: true
 use_math: true
 ---
-<h4>Where:</h4> TBD
+<h4>Where:</h4> 507 Mathematics
 <h4>When:</h4> Fridays 10-11am
 
 <table>
@@ -16,8 +16,8 @@ use_math: true
 <tr><td>January 26</td>
 	<td><a href="https://eldenelmanto.com/">Elden Elmanto</a> (University of Toronto) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>The integral Hodge conjecture via higher algebraic K-theory </summary>
+	<p class="abstract"><i>Abstract:</i> Topology has had a sordid history with the Hodge conjecture, starting with Atiyah and Hirzebruch's counterexamples to the integral Hodge conjecture via their eponymous spectral sequence. In joint work with Nick Addington, we actually use ideas from topology to prove positive results on the integral Hodge conjecture. The varieties that we consider are Fano 4-folds with certain special "symmetries" in their derived categories, which comes under the slogan of "homological projective duality" ala Kuznetsov. </p>
 	</details></td>
 	</tr>
 <tr><td>February 2</td>
