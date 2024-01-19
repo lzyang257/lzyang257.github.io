@@ -16,8 +16,8 @@ use_math: true
 <tr><td>January 26</td>
 	<td><a href="https://eldenelmanto.com/">Elden Elmanto</a> (University of Toronto) </td>
 	<td><details> 
-	<summary>The integral Hodge conjecture via higher algebraic K-theory </summary>
-	<p class="abstract"><i>Abstract:</i> Topology has had a sordid history with the Hodge conjecture, starting with Atiyah and Hirzebruch's counterexamples to the integral Hodge conjecture via their eponymous spectral sequence. In joint work with Nick Addington, we actually use ideas from topology to prove positive results on the integral Hodge conjecture. The varieties that we consider are Fano 4-folds with certain special "symmetries" in their derived categories, which comes under the slogan of "homological projective duality" ala Kuznetsov. </p>
+	<summary>Atiyah-Segal completion theorems in algebraic geometry. </summary>
+	<p class="abstract"><i>Abstract:</i> I will speak on joint work in progress with Kubrak and Sosnilo on the K-theory of algebraic stacks. Inspired by a theorem of Atiyah-Segal in topology, we prove a similar result for quotient stacks in characteristic zero, generalizing results of Thomason, Krishna, Tabuada-van den berg and others. This leads to a definition of motivic cohomology of stacks in characteristic zero. </p>
 	</details></td>
 	</tr>
 <tr><td>February 2</td>
