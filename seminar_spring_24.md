@@ -48,6 +48,13 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
+<tr><td>March 1</td>
+	<td><a href="https://www.uni-muenster.de/IVV5WS/WebHop/user/krauseac/">Achim Krause</a> (IAS/Münster)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 <tr><td>April 12</td>
 	<td><a href="https://www.math.columbia.edu/~ahickok/">Abigail Hickok</a> (Columbia)</td>
 	<td><details> 
