@@ -23,8 +23,8 @@ use_math: true
 <tr><td>February 2</td>
 	<td><a href="https://www.math.ias.edu/~tannala/">Toni Annala</a> (IAS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Atiyah duality and applications</summary>
+	<p class="abstract"><i>Abstract:</i> In topology, Atiyah duality provides a geometric model for the dual of the suspension spectrum of a smooth manifold. In this talk, we export this into algebraic geometry by proving an analogous claim in the non-$\mathbb{A}^1$-invariant stable motivic homotopy theory of Annala-Hoyois-Iwasa. Besides recovering many Poincaré duality type results, it has quite interesting consequences for the behavior of the $\mathbb{A}^1$-colocalization functor R. Namely, R is a way of turning a cohomology theory into an $\mathbb{A}^1$-invariant one without changing the on smooth projective varieties. Using this observation, we can prove the independence of logarithmic cohomology groups from the choice of good compactification, and that certain cohomology groups are birational invariants.</p>
 	</details></td>
 	</tr>
 <tr><td>February 9</td>
