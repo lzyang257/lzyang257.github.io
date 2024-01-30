@@ -30,8 +30,10 @@ use_math: true
 <tr><td>February 9</td>
 	<td><a href="https://www.math.ucla.edu/~mopie/">Morgan Opie</a> (UCLA)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i>  </p>
+	<summary>Enumerating stably trivial topological vector bundles with higher real K-theories</summary>
+	<p class="abstract"><i>Abstract:</i> The zeroeth complex topological K-theory of a space encodes complex vector bundles up to stabilization. Since complex topological K-theory is highly computable, this is a great place to start when asking questions about topological vector bundles. But, in general, there are many non-equivalent vector bundles with the same K-theory class. Bridging the gap between K-theory and actual bundle theory is challenging, even for the simplest CW complexes.
+
+	Building on work of Hu, we use Weiss-theoretic techniques in tandem with a little chromatic homotopy theory to translate vector bundle enumeration questions to tractable stable homotopy theory computations. Our main result is to compute lower bounds for the number of stably trivial rank complex rank r topological vector bundles on complex projective n-space, for infinitely many n and r. The talk will include a gentle discussion of the tools involved.  This is joint work with Hood Chatham and Yang Hu. </p>
 	</details></td>
 	</tr>
 <tr><td>February 16</td>
