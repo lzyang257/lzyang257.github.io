@@ -39,8 +39,8 @@ use_math: true
 <tr><td>February 16</td>
 	<td><a href="https://tmoulinos.com/">Tasos Moulinos</a> (CNRS/IAS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i>  </p>
+	<summary>Twists of stable homotopy theory</summary>
+	<p class="abstract"><i>Abstract:</i> Twisted stable homotopy theory was introduced by C. Douglas in his 2005 PhD thesis, to accomodate a need in Floer homotopy theory, of dealing with infinite-dimensional manifolds that are "non-trivially polarised". Roughly one can think of a twisted spectrum over a fixed topological space B as a global section of a bundle of stable infinity-categories over B, which has fiber the category of spectra. I will talk about recent work developing the theory of twisted spectra from an infinity-categorical perspective. I will describe several ways of thinking about such objects, as well how their ensuing functoriality is determined by being fibered over the Brauer space of the sphere spectrum.  I will also mention some examples, both of an elementary nature and some arising from Seiberg-Witten Floer theory. This is joint work with Alice Hedenlund.  </p>
 	</details></td>
 	</tr>
 <tr><td>February 23</td>
