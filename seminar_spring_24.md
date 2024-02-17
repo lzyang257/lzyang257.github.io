@@ -46,8 +46,8 @@ use_math: true
 <tr><td>February 23</td>
 	<td><a href="https://personal.math.ubc.ca/~smondal/">Shubhodip Mondal</a> (IAS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary> $p$-typical curves on Tate twists</summary>
+	<p class="abstract"><i>Abstract:</i> In this talk, I will discuss joint work with Sanath Devalapurkar in which we show that de Rham–Witt forms are naturally isomorphic to $p$-typical curves on $p$-adic Tate twists. I will attempt to discuss the proof of this result which is obtained by more generally equipping a related result of Hesselholt on topological cyclic homology with the motivic filtrations introduced by Bhatt–Morrow–Scholze. </p>
 	</details></td>
 	</tr>
 <tr><td>March 1</td>
