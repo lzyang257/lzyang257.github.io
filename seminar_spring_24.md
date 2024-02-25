@@ -53,8 +53,8 @@ use_math: true
 <tr><td>March 1</td>
 	<td><a href="https://www.uni-muenster.de/IVV5WS/WebHop/user/krauseac/">Achim Krause</a> (IAS/Münster)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>On the K-theory of $\mathbb{Z}/p^n$</summary>
+	<p class="abstract"><i>Abstract:</i> Algebraic K-theory of $\mathbb{Z}/p$ was computed by Quillen shortly after defining higher K-groups. On the contrary, $K(\mathbb{Z}/p^n)$ for $n>1$ has so far eluded computation in all but the smallest degrees. Based on the recently discovered prismatic cohomology, we compute algebraic K-theory of those rings. We do not quite obtain closed-form descriptions, but our calculation is completely effective and we have turned it into a program computing K-theory through an arbitrary range of degrees. In this talk, I want to give an overview over our methods.</p>
 	</details></td>
 	</tr>
 <tr><td>April 12</td>
