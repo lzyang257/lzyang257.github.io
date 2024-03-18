@@ -65,8 +65,8 @@ use_math: true
 	<td><a href="https://web.math.ku.dk/~larsh/">Lars Hesselholt</a> (Copenhagen/
 	IAS/Nagoya)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Poincaré duality revisited</summary>
+	<p class="abstract"><i>Abstract:</i> I will introduce the general approach to duality in a six-functor formalism known as "Lu-Zheng magic" and explain how it implies and clarifies classical Poincaré duality in the case of the six-functor formalism on anima.</p>
 	</details></td>
 	</tr>
 <tr><td>April 12</td>
