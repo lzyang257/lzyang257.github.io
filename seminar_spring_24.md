@@ -83,6 +83,13 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
+<tr><td>May 3</td>
+	<td><a href="https://homepages.warwick.ac.uk/staff/John.Greenlees/">John Greenlees</a> (Warwick)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 	</table>
 
 <a href="https://allenyuan.me/columbia-algebraic-topology-seminar/">Past seminars</a>
