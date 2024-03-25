@@ -72,8 +72,9 @@ use_math: true
 <tr><td>March 29</td>
 	<td><a href="https://sites.google.com/view/maxime-ramzi-en/home">Maxime Ramzi</a> (Copenhagen)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>The $\infty$-category of dualizable presentable $\infty$-categories.</summary>
+	<p class="abstract"><i>Abstract:</i> The theory of dualizable presentable $\infty$-categories has received a lot of attention in recent years, in large parts due to Efimov's recent work on continuous K-theory. <br>
+	In this talk, I will go over some motivations for this theory, as well as its basic inner workings; up to a sketch of the proof that the $\infty$-category of dualizable presentable $\infty$-categories is itself presentable. </p>
 	</details></td>
 	</tr>
 <tr><td>April 12</td>
