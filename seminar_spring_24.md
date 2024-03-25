@@ -69,6 +69,13 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> I will introduce the general approach to duality in a six-functor formalism known as "Lu-Zheng magic" and explain how it implies and clarifies classical Poincaré duality in the case of the six-functor formalism on anima.</p>
 	</details></td>
 	</tr>
+<tr><td>March 29</td>
+	<td><a href="https://sites.google.com/view/maxime-ramzi-en/home">Maxime Ramzi</a> (Copenhagen)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 <tr><td>April 12</td>
 	<td><a href="https://www.math.columbia.edu/~ahickok/">Abigail Hickok</a> (Columbia)</td>
 	<td><details> 
