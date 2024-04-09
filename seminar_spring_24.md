@@ -77,7 +77,7 @@ use_math: true
 	In this talk, I will go over some motivations for this theory, as well as its basic inner workings; up to a sketch of the proof that the $\infty$-category of dualizable presentable $\infty$-categories is itself presentable. </p>
 	</details></td>
 	</tr>
-<tr><td>April 12</td>
+<tr><td>April 26</td>
 	<td><a href="https://www.math.columbia.edu/~ahickok/">Abigail Hickok</a> (Columbia)</td>
 	<td><details> 
 	<summary>Title</summary>
