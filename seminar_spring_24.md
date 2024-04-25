@@ -80,15 +80,15 @@ use_math: true
 <tr><td>April 26</td>
 	<td><a href="https://www.math.columbia.edu/~ahickok/">Abigail Hickok</a> (Columbia)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Topological Data Analysis for Multiparameter Data </summary>
+	<p class="abstract"><i>Abstract:</i> Topological data analysis (TDA) is a way to understand the “shape” of a data set (e.g., a collection of points in R^n) by using algebraic topology. The primary tool of TDA is persistent homology, which tracks the connected components, holes, and higher-dimensional homology classes as they emerge and disappear at increasing scale. I’ll start with an overview of TDA, and then we’ll talk about methods for analyzing how the topology of a data set changes as multiple parameters vary. This is a very active area of research. In particular, I’ll discuss a construction called “persistence diagram bundles” that I introduced, as well as its relation to other objects in TDA such as “vineyards”, “multiparameter persistent homology”, and the “persistent homology transform”.</p>
 	</details></td>
 	</tr>
-<tr><td>May 3</td>
+<tr><td>May 2 in Mathematics 507</td>
 	<td><a href="https://homepages.warwick.ac.uk/staff/John.Greenlees/">John Greenlees</a> (Warwick)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Algebraic models for rational equivariant cohomology theories.</summary>
+	<p class="abstract"><i>Abstract:</i> The talk is about cohomological invariants of topological spaces with an action of a compact Lie group $G$. If we insist on these taking values in rational vector spaces, one may hope to find a small and calculable algebraic model. This is now known for many examples, and there is evidence in general. The talk will describe the structural features of the category and the general character of the model, illustrating it with examples. The methods are fairly general and should apply in other similar contexts. (The talk will feature joint work with S.Balchin and T.Barthel).</p>
 	</details></td>
 	</tr>
 	</table>
