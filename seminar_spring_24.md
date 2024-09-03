@@ -2,7 +2,7 @@
 layout: page
 title: Spring 2024 Algebraic topology seminar
 permalink: /organization-and-activities/seminar_spring2024/
-main_nav: true
+main_nav: false
 use_math: true
 ---
 <h4>Where:</h4> 507 Mathematics
@@ -84,7 +84,7 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> Topological data analysis (TDA) is a way to understand the “shape” of a data set (e.g., a collection of points in R^n) by using algebraic topology. The primary tool of TDA is persistent homology, which tracks the connected components, holes, and higher-dimensional homology classes as they emerge and disappear at increasing scale. I’ll start with an overview of TDA, and then we’ll talk about methods for analyzing how the topology of a data set changes as multiple parameters vary. This is a very active area of research. In particular, I’ll discuss a construction called “persistence diagram bundles” that I introduced, as well as its relation to other objects in TDA such as “vineyards”, “multiparameter persistent homology”, and the “persistent homology transform”.</p>
 	</details></td>
 	</tr>
-<tr><td>May 2 in Mathematics 507</td>
+<tr><td><b>May 2 in Mathematics 507</b> (note the date change)</td>
 	<td><a href="https://homepages.warwick.ac.uk/staff/John.Greenlees/">John Greenlees</a> (Warwick)</td>
 	<td><details> 
 	<summary>Algebraic models for rational equivariant cohomology theories.</summary>
