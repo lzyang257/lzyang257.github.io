@@ -13,6 +13,13 @@ use_math: true
 	<td>Speaker (affiliation)</td>
 	<td style="width:60%">Title & Abstract</td>
 	</tr>
+<tr><td>October 11</td>
+	<td><a href="https://math.indiana.edu/about/graduate-students/Cho-Myungsin.html">Myungsin Cho</a> (Indiana University Bloomington) </td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 <tr><td>October 18</td>
 	<td><a href="https://scholars.duke.edu/person/candace.bethea">Candace Bethea</a> (Duke University) </td>
 	<td><details> 
