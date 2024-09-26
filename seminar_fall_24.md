@@ -13,7 +13,7 @@ use_math: true
 	<td>Speaker (affiliation)</td>
 	<td style="width:60%">Title & Abstract</td>
 	</tr>
-<tr><td>October 11</td>
+<tr><td>October 11 (This talk will be in Mathematics 203)</td>
 	<td><a href="https://math.indiana.edu/about/graduate-students/Cho-Myungsin.html">Myungsin Cho</a> (Indiana University Bloomington) </td>
 	<td><details> 
 	<summary>Title</summary>
@@ -65,7 +65,7 @@ use_math: true
 <tr><td>December 6</td>
 	<td><a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/marco-volpe">Marco Volpe</a> (University of Toronto)</td>
 	<td><details> 
-	<summary>Toronto</summary>
+	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
