@@ -16,8 +16,8 @@ use_math: true
 <tr><td>October 11 (This talk will be in Mathematics 203)</td>
 	<td><a href="https://math.indiana.edu/about/graduate-students/Cho-Myungsin.html">Myungsin Cho</a> (Indiana University Bloomington) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Fiber of the cyclotomic trace of the sphere spectrum and K-theoretic Tate-Poitou duality at the prime 2</summary>
+	<p class="abstract"><i>Abstract:</i> Understanding the algebraic K-theory of the sphere spectrum has long been recognized as a fundamental problem in algebraic and differential topology. Since the homotopy fiber of its p-completed cyclotomic trace depends only on the zeroth homotopy group, we can apply algebraic methods to study it. Blumberg and Mandell’s work demonstrates that, for odd primes, Tate-Poitou duality can be enhanced to an Anderson duality between the homotopy fiber and the K(1)-local K-theory of the integers. In this talk, I will present this connection and extend the result to the case where p=2.</p>
 	</details></td>
 	</tr>
 <tr><td>October 18</td>
