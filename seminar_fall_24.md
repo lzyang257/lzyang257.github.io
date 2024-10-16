@@ -30,8 +30,8 @@ use_math: true
 <tr><td>October 25</td>
 	<td><a href="https://www.maths.gla.ac.uk/~rboyd/">Rachael Boyd</a> (University of Glasgow) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Diffeomorphisms of reducible 3-manifolds</summary>
+	<p class="abstract"><i>Abstract:</i> I will talk about joint work with Corey Bregman and Jan Steinebrunner, in which we study the moduli space B Diff(M), for M a compact, connected, reducible 3-manifold. We prove that when M is orientable and has non-empty boundary, B Diff(M rel ∂M) has the homotopy type of a finite CW-complex. This was conjectured by Kontsevich and previously proved in the case where M is irreducible by Hatcher and McCullough.</p>
 	</details></td>
 	</tr>
 <tr><td>November 1</td>
