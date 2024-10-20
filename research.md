@@ -35,6 +35,11 @@ use_math: true
 
 <h3>Preprints</h3>
 <details>
+<summary><a href="https://arxiv.org/abs/2409.05965">Equivariant Witt Complexes and Twisted Topological Hochschild Homology
+</a></summary>
+<p class="abstract"><i>Abstract:</i>  The topological Hochschild homology of a ring (or ring spectrum) R is an $S^1$-spectrum, and the fixed points of THH(R) for subgroups $C_n \subset S^1$ have been widely studied due to their use in algebraic K-theory computations. Hesselholt and Madsen proved that the fixed points of topological Hochschild homology are closely related to Witt vectors. Further, they defined the notion of a Witt complex, and showed that it captures the algebraic structure of the homotopy groups of the fixed points of THH. Recent work of Angeltveit, Blumberg, Gerhardt, Hill, Lawson and Mandell defines a theory of twisted topological Hochschild homology for equivariant rings (or ring spectra) that builds upon Hill, Hopkins and Ravenel's work on equivariant norms. In this paper, we study the algebraic structure of the equivariant homotopy groups of twisted THH. In particular, we define an equivariant Witt complex and prove that the equivariant homotopy of twisted THH has this structure. Our definition of equivariant Witt complexes contributes to a growing body of research in the subject of equivariant algebra. </p>
+</details>
+<details>
 <summary> <a href="{{site.baseurl}}/assets/normedrings.pdf">On normed $ \mathbb{E}_\infty $-rings in genuine equivariant $ C_p $-spectra</a>  (last updated August 2023)</summary>
 <p class="abstract"><i>Abstract:</i>  Genuine equivariant homotopy theory is equipped with a multitude of coherently commutative multiplication structures generalizing the classical notion of an $ \mathbb{E}_\infty $-algebra. In this paper we study the $ C_p $-$ \mathbb{E}_\infty $-algebras of Nardin--Shah with respect to a cyclic group $ C_p $ of prime power order. We show that many of the higher coherences inherent to the definition of parametrized algebras collapse; in particular, they may be described more simply and conceptually in terms of ordinary $ \mathbb{E}_\infty $-algebras as a diagram category which we call \emph{normed algebras}. 
 Our main result provides a relatively straightforward criterion for identifying $ C_p $-$ \mathbb{E}_\infty $-algebra structures. 
