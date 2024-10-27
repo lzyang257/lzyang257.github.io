@@ -37,8 +37,8 @@ use_math: true
 <tr><td>November 1</td>
 	<td><a href="https://websites.umich.edu/~viktorb/">Viktor Burghardt</a> (University of Michigan)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Genuine Involutions and Schemes</summary>
+	<p class="abstract"><i>Abstract:</i> We develop a theory of schemes which come equipped with genuine involutions and develop invariants analogous to Picard and Brauer invariants for classical schemes. A key component of these invariants are Poincare structures on compact module categories. This is joint work with Noah Riggenbach and Lucy Yang.</p>
 	</details></td>
 	</tr>
 <tr><td>November 8</td>
