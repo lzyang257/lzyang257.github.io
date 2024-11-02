@@ -41,12 +41,13 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> We develop a theory of schemes which come equipped with genuine involutions and develop invariants analogous to Picard and Brauer invariants for classical schemes. A key component of these invariants are Poincare structures on compact module categories. This is joint work with Noah Riggenbach and Lucy Yang.</p>
 	</details></td>
 	</tr>
-<tr><td>November 8</td>
-	<td><a href="https://nataliesstewart.github.io/">Natalie Stewart</a> (Harvard University)</td>
+<tr><td>November 8</td><td>-</td>
+	<td>No seminar today
+	<!--<a href="https://nataliesstewart.github.io/">Natalie Stewart</a> (Harvard University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i>  </p>
-	</details></td>
+	</details>--></td>
 	</tr>
 <tr><td>November 15</td>
 	<td><a href="https://web.sas.upenn.edu/amejia83/">Andres Mejia</a> (University of Pennsylvania)</td>
