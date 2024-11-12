@@ -52,8 +52,10 @@ use_math: true
 <tr><td>November 15</td>
 	<td><a href="https://web.sas.upenn.edu/amejia83/">Andres Mejia</a> (University of Pennsylvania)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i>  </p>
+	<summary>A Trace Map for The Equivariant Algebraic $K$-Theory of Spaces.</summary>
+	<p class="abstract"><i>Abstract:</i> Classically, the Algebraic $K$-theory of spaces ($A$-theory) is used to study manifold topology from a homotopical perspective. In the equivariant setting, Malkiewich and Merling constructed a genuine $G$-spectrum $A_G(X)$  together with an assembly map $\Sigma^{\infty}_{G}X \to A_G(X)$  whose cofiber deloops to the equivariant "stable $h$-cobordism space" for a smooth $G$-manifold $M$.
+
+Non-equivariantly, Waldhausen’s original vision for $A$-theory was an interpretation that initiated work in "brave new algebra" that happens on the level of spectra. Moreover, he gave an interpretation of $A$-theory analogous to the  theory of rings where we take the $K$-theory of $(\mathbb{S}[ \Omega X])$, thinking of this as a "spherical group ring" in analogy with $\mathbb{Z}[\pi_1 X]$ . A natural question is whether or not there is a similar story for $A_G(X)$, and we propose a model that gives a positive answer to this question. As an application, we construct an equivariant trace map to a version of equivariant topological Hochschild Homology possessing the correct properties in analogy with the identification of $THH(\mathbb {S}[\Omega X])$ as the free loop space of $X$. </p>
 	</details></td>
 	</tr>
 <tr><td>November 22</td>
