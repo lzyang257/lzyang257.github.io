@@ -61,8 +61,8 @@ Non-equivariantly, Waldhausen’s original vision for $A$-theory was an interpre
 <tr><td>November 22</td>
 	<td>Roy Magen (Columbia University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i>  </p>
+	<summary>Equivariant Betti realization and homotopy categories via sheaves on equivariant complex manifolds. </summary>
+	<p class="abstract"><i>Abstract:</i> Motivic homotopy theory is the incarnation of classical homotopy theory in the world of algebraic geometry, and Betti realization is a tool that allows us to translate between motivic and classical homotopy theories. This tool is immensely useful for studying "transcendental" invariants of schemes, and was used by Voevodsky in his proof of the Bloch-Kato conjecture to compute the motivic Steenrod algebra. Just as there are equivariant versions of homotopy categories, in the past 10 years, there have been advances in motivic homotopy theory allowing us to consider equivariant versions of motivic homotopy categories. In this talk I will outline a way to produce equivariant and stacky versions of Betti realization allowing us to pass from equivariant motivic homotopy categories to classical equivariant homotopy categories. On the way, we will consider complex-analytic versions of motivic homotopy, and find models for equivariant homotopy categories using categories of homotopy-invariant sheaves.</p>
 	</details></td>
 	</tr>
 <tr><td>December 6</td>
