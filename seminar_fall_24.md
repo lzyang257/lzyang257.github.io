@@ -68,8 +68,11 @@ Non-equivariantly, Waldhausen’s original vision for $A$-theory was an interpre
 <tr><td>December 6</td>
 	<td><a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/marco-volpe">Marco Volpe</a> (University of Toronto)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Traces of dualizable categories and functoriality of the Becker-Gottlieb transfers</summary>
+	<p class="abstract"><i>Abstract:</i> For any fiber bundle with compact smooth manifold fiber X ⟶ Y, Becker and Gottlieb have defined a "wrong way" map S[Y] ⟶ S[X] at the level of homology with coefficients in the sphere spectrum. Later on, these wrong way maps have been defined more generally for continuous functions whose homotopy fibers are finitely dominated, and have been since referred to as the Becker-Gottlieb transfers. It has been a long standing open question whether these transfers behave well under composition, i.e. if they can be used to equip homology with a contravariant functoriality. <br>
+	In this talk, we will approach the transfers from the perspective of sheaf theory. We will recall the notion of a locally contractible geometric morphism, and then define a Becker-Gottlieb transfer associated to any proper, locally contractible map between locally contractible and locally compact Hausdorff spaces. We will then use techniques coming from recent work of Efimov on localizing invariants and dualizable stable infinity-categories to construct fully functorial "categorified transfers". Functoriality of the Becker-Gottlieb transfers associated to proper, locally constractible maps is then obtained by applying topological Hochschild homology to the categorified transfers. <br>
+	If time permits, we will also explain how similar methods can be used to give a generalization of the topological Dwyer-Weiss-Williams index theorem, and how to construct analogous functorial transfers in any six functor formalism. <br>
+	This is a joint work with Maxime Ramzi and Sebastian Wolf.</p>
 	</details></td>
 	</tr>
 	</table>
