@@ -65,6 +65,13 @@ Non-equivariantly, Waldhausen’s original vision for $A$-theory was an interpre
 	<p class="abstract"><i>Abstract:</i> Motivic homotopy theory is the incarnation of classical homotopy theory in the world of algebraic geometry, and Betti realization is a tool that allows us to translate between motivic and classical homotopy theories. This tool is immensely useful for studying "transcendental" invariants of schemes, and was used by Voevodsky in his proof of the Bloch-Kato conjecture to compute the motivic Steenrod algebra. Just as there are equivariant versions of homotopy categories, in the past 10 years, there have been advances in motivic homotopy theory allowing us to consider equivariant versions of motivic homotopy categories. In this talk I will outline a way to produce equivariant and stacky versions of Betti realization allowing us to pass from equivariant motivic homotopy categories to classical equivariant homotopy categories. On the way, we will consider complex-analytic versions of motivic homotopy, and find models for equivariant homotopy categories using categories of homotopy-invariant sheaves.</p>
 	</details></td>
 	</tr>
+<tr><td><b>Wednesday</b>, December 4 at <b>3pm</b> (location tbd)</td>
+	<td><a href="https://ishanina.github.io/">Ishan Levy</a> (University of Copenhagen)</td>
+	<td><details> 
+	<summary>The Cohen--Lenstra moments for functions fields and stable homology of Hurwitz spaces</summary>
+	<p class="abstract"><i>Abstract:</i> The Cohen--Lenstra heuristics predict the distribution of the odd part of class groups of quadratic fields, and are one of the driving conjectures in arithmetic statistics. I will explain work with Aaron Landesman, where we compute the moments of the Cohen--Lenstra distribution for function fields, when the size of the finite field is sufficiently large (depending on the moment). We follow an approach to this problem due to Ellenberg--Venkatesh--Westerland, and the key new input is the computation of the stable rational homology of Hurwitz spaces associated to certain conjugacy classes in generalized dihedral groups. I will explain the ideas in our computation of the stable homology in the case of the dihedral group of order 6 with conjugacy class transpositions.</p>
+	</details></td>
+	</tr>
 <tr><td>December 6</td>
 	<td><a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/marco-volpe">Marco Volpe</a> (University of Toronto)</td>
 	<td><details> 
