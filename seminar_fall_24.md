@@ -2,7 +2,7 @@
 layout: page
 title: Fall 2024 Algebraic topology seminar
 permalink: /organization-and-activities/seminar_fall2024/
-main_nav: true
+main_nav: false
 use_math: true
 ---
 <h4>Where:</h4> 507 Mathematics
