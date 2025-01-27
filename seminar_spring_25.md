@@ -27,8 +27,22 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> Motivic cohomology is a cohomology theory that can be defined internally within Grothendieck's category of motives. Voevodsky developed this theory for smooth varieties, demonstrating its profound connections to algebraic cycles and algebraic K-theory. However, its behaviour beyond the smooth case remains less well understood. Building upon recent advancements by Bachmann, Elmanto, Morrow, and Bouis, we establish its A^1-homotopty invariance for a broader class of "smooth" schemes. This is part of ongoing work in collaboration with Tess Bouis. </p>
 	</details></td>
 	</tr>
+<tr><td>April 4</td>
+	<td><a href="https://people.maths.ox.ac.uk/brantner/">Lukas Brantner</a> (Oxford University, CNRS)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
 <tr><td>April 18</td>
 	<td><a href="https://manuelkrannich.github.io/">Manuel Krannich</a> (Karlsruhe Institute of Technology)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>April 25</td>
+	<td><a href="https://www.utsc.utoronto.ca/people/kupers/">Alexander Kupers</a> (University of Toronto)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
