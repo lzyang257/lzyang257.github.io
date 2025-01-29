@@ -16,8 +16,8 @@ use_math: true
 <tr><td>February 7</td>
 	<td><a href="https://sites.google.com/view/cmbonciocat/home">Ciprian Bonciocat</a> (Stanford University) </td>
 	<td><details> 
-	<summary>Title TBA </summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Floer homotopy theory from low-dimensional moduli spaces </summary>
+	<p class="abstract"><i>Abstract:</i> Floer homotopy theory is the programme that seeks to upgrade various existing Morse/Floer theories from (co)chain complexes to module spectra over some E_\infty ring spectrum. In the first half of the talk, we review the general construction proposed in 1995 by Cohen, Jones, and Segal, which takes as input the data of all the higher dimensional moduli spaces of broken flow lines between critical points, together with suitable stable framings thereof. Then, we briefly illustrate how in the case of classical Morse-Bott theory on a closed smooth manifold M, the construction recovers the Thom spectra M^E for all reduced KO-theory classes [E] on M. In the second half, we show that one can still obtain weaker but non-trivial invariants (in the form of modules over Postnikov truncations of bordism spectra) if moduli spaces are smooth and compact only up to a certain dimension (as is often the case due to bubbling, e.g. in Instanton and Lagrangian Floer theories.) We end by illustrating how our construction can provide further constraints on the topology of the intersection between a monotone Lagrangian submanifold L of (M, \omega), and a Hamiltonian perturbation of L, and explore the concrete example of RP^n inside CP^n.</p>
 	</details></td>
 	</tr>
 <tr><td>February 21</td>
