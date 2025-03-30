@@ -41,8 +41,8 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> How much of a closed smooth manifold M is captured by the homotopy type of its framed configuration spaces? This talk serves to make this question precise and to explain recent results in this direction in the case where M is an exotic sphere, obtained as part of joint work in progress with A. Kupers and F. Mezher. </p>
 	</details></td>
 	</tr>
-<tr><td>April 25</td>
-	<td><a href="https://www.utsc.utoronto.ca/people/kupers/">Alexander Kupers</a> (University of Toronto)</td>
+<tr><td>May 2</td>
+	<td><a href="https://nataliesstewart.github.io/">Natalie Stewart</a> (Harvard University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
