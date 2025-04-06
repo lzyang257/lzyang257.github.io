@@ -30,8 +30,8 @@ use_math: true
 <tr><td>April 11</td>
 	<td><a href="https://people.maths.ox.ac.uk/brantner/">Lukas Brantner</a> (Oxford University, CNRS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Deformations and lifts of Calabi-Yau varieties in characteristic p</summary>
+	<p class="abstract"><i>Abstract:</i> Homotopy theory allows us to study formal moduli problems via their tangent Lie algebras. After briefly reviewing this general paradigm, I will explain how it sheds light on deformations of Calabi-Yau varieties.  In joint work with Taelman, we prove a mixed characteristic analogue of the Bogomolov–Tian–Todorov theorem, which asserts that Calabi-Yau varieties in characteristic 0 are unobstructed. Moreover, we show that ordinary Calabi–Yau varieties in characteristic p admit canonical (and algebraisable) lifts to characteristic 0, generalising results of Serre-Tate for abelian varieties and Deligne-Nygaard for K3 surfaces. If time permits, I will conclude by discussing some intriguing questions related to our canonical lifts.  </p>
 	</details></td>
 	</tr>
 <tr><td>April 18</td>
