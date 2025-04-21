@@ -44,8 +44,8 @@ use_math: true
 <tr><td>April 25</td>
 	<td><a href="https://math.uchicago.edu/~rudenkodaniil/">Daniil Rudenko</a> (UChicago)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Multiple polylogarithms and the Steinberg module</summary>
+	<p class="abstract"><i>Abstract:</i> Multiple polylogarithms appear to be central to many seemingly unrelated areas of mathematics, including the volumes of hyperbolic polytopes, scissors congruence, algebraic K-theory, and special values of zeta functions. Despite this broad network of connections, the most fundamental properties of these functions, as predicted by the Goncharov program, remain conjectural. I will discuss recent progress in the Goncharov program, which is based on the connection between multiple polylogarithms and the Steinberg module. The talks are based on joint work with Steven Charlton and Danylo Radchenko, as well as on ongoing work with Alexander Kupers and Ismael Sierra. </p>
 	</details></td>
 	</tr>
 <tr><td>May 2</td>
