@@ -51,8 +51,12 @@ use_math: true
 <tr><td>May 2</td>
 	<td><a href="https://nataliesstewart.github.io/">Natalie Stewart</a> (Harvard University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Equivariant operads, Wirthmüller isomorphisms, and a conjecture of Blumberg-Hill</summary>
+	<p class="abstract"><i>Abstract:</i> Work of Hill-Hopkins-Ravanel and Nardin pioneered a delicate relationship between (homotopy coherent) equivariant algebraic structures and genuine-equivariant notions of semiadditivity. The former is controlled by algebras over the commutative G-operad $\mathrm{Comm}_G$, and the latter by Wirthmüller isomorphisms in equivariant higher category theory.
+
+Motivated by equivariant chromatic homotopy theory, $\mathrm{Comm}_G$ was generalized by Blumberg-Hill to $\mathcal{N}_{\infty}$ operads, a family of sub-terminal objects of $\mathrm{Op}_G$ classified by subcategories $I \subset \mathbb{F}_G$ called indexing categories. Guided by discrete algebra, they conjectured an equivalence $\mathcal{N}_{I \infty} \otimes \mathcal{N}_{J \infty} \simeq \mathcal{N}_{I \vee J \infty}$.
+
+In this talk, I will establish that $\mathcal{N}_{I \infty}$ is universal among $G$-operads whose monoids possess $I$-indexed Wirthmüller isomorphisms and affirm Blumberg-Hill's conjecture as a corollary.</p>
 	</details></td>
 	</tr>
 	</table>
