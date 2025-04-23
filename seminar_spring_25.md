@@ -59,6 +59,13 @@ Motivated by equivariant chromatic homotopy theory, $\mathrm{Comm}_G$ was genera
 In this talk, I will establish that $\mathcal{N}_{I \infty}$ is universal among $G$-operads whose monoids possess $I$-indexed Wirthmüller isomorphisms and affirm Blumberg-Hill's conjecture as a corollary.</p>
 	</details></td>
 	</tr>
+	<tr><td><strong>Thursday</strong> May 8</td>
+	<td><a href="https://www.math.ku.dk/english/staff/?pure=en/persons/777042">Azélie Picot</a> (Copenhagen/ Columbia)</td>
+	<td><details> 
+	<summary> Excision properties of variations on the surface cobordism category</summary>
+	<p class="abstract"><i>Abstract:</i> The surface cobordism category $\text{Cob}_2^{SO}$ is the topologically enriched category with objects finite disjoint union of circles and spaces of morphisms are disjoint union of moduli spaces of surfaces. For any space X, we can define a category $\text{Cob}_2^{SO}(X)$ with objects 1-dimensional closed manifold equipped with a map to X and morphisms are surfaces equipped with a map to X compatible with the data on the boundary. In this talk, I will define a category $\text{Cob}_2^{SG}(X)$ with the same objects as $\text{Cob}_2^{SO}(X)$, but where morphisms are surfaces up to self-homotopy equivalences instead of diffeomorphisms. I will then describe a formula for the geometric realisation of the nerve $\text{BCob}_2^{SG}(X)$, as well as for the first polynomial approximation of the functor $\text{BCob}_2^{SG}(-)$.</p>
+	</details></td>
+	</tr>
 	</table>
 
 <a href="https://allenyuan.me/columbia-algebraic-topology-seminar/">Past seminars</a>
