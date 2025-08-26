@@ -9,6 +9,8 @@ main_nav: true
 <!--
 <li>The schedule and details for the Fall 2024 learning seminar on shifted symplectic seminars and applications to enumerative geometry at Columbia can be found <a href="{{site.baseurl}}/organization-and-activities/shifted_symplectic_seminar/">here</a>.</li> 
 --> 
+<li>The schedule and details for the Spring 2025 Algebraic Topology seminar at Columbia can be found <a href="{{site.baseurl}}/organization-and-activities/seminar_spring2025/">here</a>.</li>
+
 <li>The schedule and details for the Fall 2024 Algebraic Topology seminar at Columbia can be found <a href="{{site.baseurl}}/organization-and-activities/seminar_fall2024/">here</a>.</li>
 
 <li>The schedule and details for the Spring 2024 Algebraic Topology seminar at Columbia can be found <a href="{{site.baseurl}}/organization-and-activities/seminar_spring2024/">here</a>.</li>

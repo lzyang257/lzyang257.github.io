@@ -2,7 +2,7 @@
 layout: page
 title: Spring 2025 Algebraic topology seminar
 permalink: /organization-and-activities/seminar_spring2025/
-main_nav: true
+main_nav: false
 use_math: true
 ---
 <h4>Where:</h4> 507 Mathematics
