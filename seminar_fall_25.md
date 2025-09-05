@@ -48,7 +48,7 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
-<tr><td>October 17 <strong>at 2pm</strong></td>
+<tr><td>October 17 <strong>at 2pm in 407</strong></td>
 	<td><a href="https://people.maths.ox.ac.uk/tillmann/">Ulrike Tillmann</a> (Oxford University) </td>
 	<td><details> 
 	<summary>Title</summary>
