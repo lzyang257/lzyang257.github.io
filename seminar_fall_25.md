@@ -23,8 +23,9 @@ use_math: true
 <tr><td>September 19</td>
 	<td><a href="https://sites.google.com/view/ningchuan-zhang">Ningchuan Zhang</a> (Indiana University Bloomington) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Profinite transfers in K(n)-local homotopy theory</summary>
+	<p class="abstract"><i>Abstract:</i> After K(1)-localization, the classical J-homomorphism can be interpreted as a profinite transfer map. More precisely, it is a transfer map $\Sigma^{-1}KO^\wedge_2 \to S_{K(1)}$ from the $C_2$-homotopy fixed points (with a twist) to the $\mathbb{Z}_2^\times$-homotopy fixed points of the 2-complete complex topological K-theory. In joint work in progress with Guchuan Li, we extend this idea to define and study profinite transfers between homotopy fixed points of the Morava E-theory by closed subgroups of the Morava stabilizer group. <br> <br>
+	We introduce two definitions of the profinite transfer maps. One ad hoc definition is as duals to the profinite restriction maps in the appropriate category. At large primes, we show that the image of the transfer map $\Sigma^{-n^2}E_n \to S_{K(n)}$ on homotopy groups is the HFPSS filtration n^2-line. A second definition of the profinite transfer maps is based on the 6-functor formalism for smooth representations of p-adic Lie groups by Heyer—Mann. We prove that the ad hoc and the 6-functor definitions are equivalent. </p>
 	</details></td>
 	</tr>
 <tr><td>September 26</td>
