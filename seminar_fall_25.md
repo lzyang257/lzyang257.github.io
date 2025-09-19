@@ -29,7 +29,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>September 26</td>
-	<td>Speaker: TBA </td>
+	<td><a href="https://ajblumberg.github.io/">Andrew Blumberg</a> (Columbia University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -57,7 +57,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>October 24</td>
-	<td>Speaker TBA </td>
+	<td><a href="https://sites.math.duke.edu/~kgw/">Kirsten Wickelgren</a> (Duke University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
