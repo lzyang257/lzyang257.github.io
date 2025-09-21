@@ -52,8 +52,8 @@ use_math: true
 <tr><td>October 17 <strong>at 2pm in 407</strong></td>
 	<td><a href="https://people.maths.ox.ac.uk/tillmann/">Ulrike Tillmann</a> (Oxford University) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Braids, mapping class groups, commuting elements, and a new infinite loop space machine</summary>
+	<p class="abstract"><i>Abstract:</i> The theory of iterated loop spaces was developed in particular to detect and study generalisaed cohomology theories.  In this talk I will review some lesser known applications of operads and iterate loop space theory in the context of braid groups, mapping class groups and commutative K-theory. Motivated by these, I will present a new general construction of infinite loop spaces that allows us to construct infinite loop spaces  from objects that may not be expected to give rise to such a structured space, eg Torelli groups.</p>
 	</details></td>
 	</tr>
 <tr><td>October 24</td>
