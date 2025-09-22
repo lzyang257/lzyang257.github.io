@@ -38,8 +38,10 @@ use_math: true
 <tr><td>October 3</td>
 	<td><a href="https://ishanina.github.io/">Ishan Levy</a> (Institute of Advanced Study)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i>  </p>
+	<summary>Trace methods beyond connective rings</summary>
+	<p class="abstract"><i>Abstract:</i> Trace methods are an important tool in understanding K-theory of ring spectra, but usually only work when the rings in question are connective.
+I will describe joint work with Vova Sosnilo on c-categories, which are stable categories equipped with extra structure that allows many tools for connective rings to apply. Perfect module categories of bounded below rings, as well as perfect complexes on certain stacks, give examples of c-categories. We prove an analog of the Dundas—Goodwillie—McCarthy theorem in this setting.
+I will then describe how this theory can be used to give formulas for the algebraic K-theory of many categories arising in chromatic homotopy theory in terms of TC. </p>
 	</details></td>
 	</tr>
 <tr><td>October 10</td>
