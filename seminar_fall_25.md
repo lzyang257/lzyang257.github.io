@@ -13,13 +13,6 @@ use_math: true
 	<td>Speaker (affiliation)</td>
 	<td style="width:60%">Title & Abstract</td>
 	</tr>
-<tr><td>September 12</td>
-	<td>Speaker: TBA</td>
-	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
-	</details></td>
-	</tr>
 <tr><td>September 19</td>
 	<td><a href="https://sites.google.com/view/ningchuan-zhang">Ningchuan Zhang</a> (Indiana University Bloomington) </td>
 	<td><details> 
@@ -31,8 +24,8 @@ use_math: true
 <tr><td>September 26</td>
 	<td><a href="https://ajblumberg.github.io/">Andrew Blumberg</a> (Columbia University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>The multiplicative tom Dieck splitting</summary>
+	<p class="abstract"><i>Abstract:</i> The modern perspective on equivariant stable categories is that they are characterized equivalently by the existence of transfers, duality, and the tom Dieck splitting. The purpose of this talk is to explain an analogous characterization of the G-symmetric monoidal structure when G is finite, and a conjectural picture for what happens when G is an infinite compact Lie group. This is joint work with Mike Mandell.</p>
 	</details></td>
 	</tr>
 <tr><td>October 3</td>
