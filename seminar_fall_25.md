@@ -54,8 +54,9 @@ I will then describe how this theory can be used to give formulas for the algebr
 <tr><td>October 24</td>
 	<td><a href="https://sites.math.duke.edu/~kgw/">Kirsten Wickelgren</a> (Duke University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Gromov--Witten invariants in Hermitian K-theory: k-rational del Pezzo surfaces</summary>
+	<p class="abstract"><i>Abstract:</i> Gromov–Witten invariants in Hermitian K-theory allow one to obtain an arithmetically meaningful count of curves satisfying constraints over a field k without assuming that k is the field of complex or real numbers. They were developed in joint work with Kass, Levine, and Solomon in genus 0 for del Pezzo surfaces. <br>
+	In joint work with Erwan Brugallé and Johannes Rau, we give a complete calculation of these invariants for k-rational del Pezzo surfaces of degree greater than 5. Moreover, we give these invariants the structure of an unramified Witt invariant for any fixed surface and degree. We then construct a multivariable unramified Witt invariant which conjecturally contains all of these invariants for k-rational surfaces. To prove the conjecture for del Pezzo surfaces of degree greater than 5 and obtain the calculation, we study the behavior of these Gromov–Witten invariants during an algebraic analogue of surgery. </p>
 	</details></td>
 	</tr>
 <tr><td>October 31</td>
