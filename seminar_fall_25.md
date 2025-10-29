@@ -73,8 +73,9 @@ I will then describe how this theory can be used to give formulas for the algebr
 <tr><td>November 14</td>
 	<td><a href="https://sites.google.com/view/samuel-munoz-echaniz/about-me">Samuel Munoz Echaniz</a> (MIT) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>A Weiss–Williams theorem for embedding spaces and an application to diffeomorphisms of solid tori</summary>
+	<p class="abstract"><i>Abstract:</i> There is a programme, largely developed by Weiss and Williams, that aims to understand the homotopy type of the diffeomorphism group of a compact, high-dimensional manifold M in terms of Waldhausen's algebraic K-theory of M. In this talk, I will give a brief overview of this programme and present an analogue for spaces of embeddings (of compact manifolds P into M, say). The main difference with the original programme is that the algebraic K-theory of M is replaced by the *relative* algebraic K-theory of the pair (M, M minus P), which, in many cases, coincides with the relative topological cyclic homology of such pair — a far more computable invariant. <br>
+	As an application, I will report on ongoing joint work with João Lobo Fernandes computing rational homotopy groups of the diffeomorphism group of solid tori S¹ × Dⁿ, n > 4. This follows a strategy of Bustamante–Randal-Williams and extends computations of Budney–Gabai and Watanabe in high-dimensions. </p>
 	</details></td>
 	</tr>
 <tr><td>November 21</td>
