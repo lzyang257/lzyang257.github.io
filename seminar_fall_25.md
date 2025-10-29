@@ -57,11 +57,8 @@ I will then describe how this theory can be used to give formulas for the algebr
 	</details></td>
 	</tr>
 <tr><td>October 31</td>
-	<td>Speaker TBA </td>
-	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
-	</details></td>
+	<td> - </td>
+	<td>No seminar</td>
 	</tr>
 <tr><td>November 7</td>
 	<td><a href="https://people.math.binghamton.edu/malkiewich/">Cary Malkiewich</a></td>
