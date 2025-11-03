@@ -63,8 +63,9 @@ I will then describe how this theory can be used to give formulas for the algebr
 <tr><td>November 7</td>
 	<td><a href="https://people.math.binghamton.edu/malkiewich/">Cary Malkiewich</a></td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Higher scissors congruence</summary>
+	<p class="abstract"><i>Abstract:</i> Scissors congruence is the study of polytopes, up to the relation of cutting into finitely many pieces and rearranging the pieces. In the 2010s, Zakharevich defined a "higher" version of scissors congruence, where we don't just ask whether two polytopes are scissors congruent, but also how many scissors congruences there are from one polytope to another. <br>
+	Zakharevich's definition is a form of algebraic K-theory, which is famously difficult to compute, but I will discuss a surprising result that makes the computation of the higher K-groups possible, at least for low-dimensional geometries. In particular, this gives the homology of the group of interval exchange transformations, and a new proof of Szymik and Wahl's theorem that Thompson's group V is acyclic. Much of this talk is based on joint work with Anna-Marie Bohmann, Teena Gerhardt, Mona Merling, and Inna Zakharevich, and also with Alexander Kupers, Ezekiel Lemann, Jeremy Miller, and Robin Sroka.</p>
 	</details></td>
 	</tr>
 <tr><td>November 14</td>
