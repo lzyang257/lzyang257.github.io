@@ -79,8 +79,8 @@ I will then describe how this theory can be used to give formulas for the algebr
 <tr><td>November 21</td>
 	<td><a href="https://www2.math.upenn.edu/~mmerling/">Mona Merling</a> (University of Pennsylvania) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Quaternionic topological Hochschild homology </summary>
+	<p class="abstract"><i>Abstract:</i> Topological Hochschild homology, an invariant of ring spectra, is the realization of a cyclic object defined using Connes' cyclic category and it carries an action of the circle. Real topological Hochschild homology, an invariant of ring spectra with involution, is the realization of a dihedral object defined using the dihedral category and it carries an action of O(2). In this talk, we describe a simultaneous generalization of these constructions, a topological version of homology which takes as input rings with twisted group action, which generalize rings with involution. A new example of interest of this construction is quaternionic topological Hochschild homology, which carries a Pin(2)-action. This is joint work with Gabriel Angelini-Knoll and Maximilien Péroux. </p>
 	</details></td>
 	</tr>
 <tr><td>November 28</td>
