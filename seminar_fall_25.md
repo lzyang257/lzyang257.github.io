@@ -90,8 +90,8 @@ I will then describe how this theory can be used to give formulas for the algebr
 <tr><td>December 5</td>
 	<td><a href="https://emilyriehl.github.io/">Emily Riehl</a> (Johns Hopkins University) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Synthetic perspectives on spaces and categories</summary>
+	<p class="abstract"><i>Abstract:</i> Recently discovered domain-specific formal systems — specifically homotopy type theory and simplicity type theory — provide new perspectives on spaces and categories in a natively equivalence-invariant setting. This talk will expose fundamental proof techniques in these parallel settings: describing induction principles over paths or arrows and constructions involving universes that are either univalent or directed univalent. Our contributions to the synthetic theory of higher categories were developed over the course of joint work with Dominic Verity, Mike Shulman, Evan Cavallo, and Christian Sattler, among others. </p>
 	</details></td>
 	</tr>
 </table>
