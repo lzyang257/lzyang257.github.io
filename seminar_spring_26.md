@@ -23,7 +23,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>January 30</td>
-	<td> TBA </td>
+	<td><a href="https://sites.google.com/site/danpetersenmath/">Dan Petersen</a> (Stockholm University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
