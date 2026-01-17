@@ -25,8 +25,8 @@ use_math: true
 <tr><td>January 30</td>
 	<td><a href="https://sites.google.com/site/danpetersenmath/">Dan Petersen</a> (Stockholm University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>A classifying space for the handlebody group</summary>
+	<p class="abstract"><i>Abstract:</i> We use Teichmüller theory to construct a new geometric model for the classifying space of the mapping class group of a three-dimensional handlebody. Two consequences are obtained: (i) Chan-Galatius-Payne have recently shown that the homology of Kontsevich's commutative graph complex injects into the homology of the mapping class groups of surfaces, producing an enormous amount of highly unstable homology classes. We show that this homomorphism factors through the homology of the corresponding handlebody mapping class groups. (ii) The handlebody mapping class group is a virtual duality group in the sense of Bieri-Eckmann, with dualizing module given by a certain complex of nonsimple disk systems; the analogous result for mapping class groups of surfaces is a theorem of Harer. (Joint with Louis Hainaut and with Ric Wade.)</p>
 	</details></td>
 	</tr>
 <tr><td>February 6</td>
