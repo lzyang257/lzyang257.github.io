@@ -58,7 +58,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>March 6</td>
-	<td><a href="https://sites.google.com/view/adelayyz/home">Adela Zhang</a> (University of Copenhagen)</td>
+	<td> TBA </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -76,7 +76,7 @@ use_math: true
 	<td> -- </td>
 	</tr>
 <tr><td>March 27</td>
-	<td> TBA </td>
+	<td><a href="https://sites.google.com/view/adelayyz/home">Adela Zhang</a> (University of Copenhagen) </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -90,7 +90,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>April 10</td>
-	<td> TBA </td>
+	<td><a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
