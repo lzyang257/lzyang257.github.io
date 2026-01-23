@@ -44,7 +44,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>February 20</td>
-	<td> TBA </td>
+	<td><a href="https://sites.google.com/view/davidchanmath">David Chan</a> (Michigan State University)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
