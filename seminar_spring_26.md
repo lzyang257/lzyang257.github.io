@@ -50,8 +50,8 @@ use_math: true
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
-<tr><td>February 27</td>
-	<td> TBA </td>
+<tr><td><strong>2:45-3:45pm on Thursday, Feb 26 in Mathematics 520</strong></td>
+	<td><a href="https://riveramanuel.com/">Manuel Rivera</a> (Purdue University) </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -90,14 +90,14 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>April 10</td>
-	<td><a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> </td>
+	<td> TBA </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>April 17</td>
-	<td> TBA </td>
+	<td> <a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
