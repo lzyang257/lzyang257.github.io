@@ -30,10 +30,10 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>February 6</td>
-	<td> TBA </td>
+	<td> <a href="https://sorengalatius.com/">Søren Galatius</a> </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Integral lifts of graph complexes </summary>
+	<p class="abstract"><i>Abstract:</i> Graph complexes, as originally defined by Kontsevich, are chain complexes over the rational numbers, defined explicitly by generators and relations.  They appear in surprisingly many areas of topology.  I will briefly survey their connection to operads, and discuss how parts of the theory may be upgraded from rational chain complexes to integral and even space-level objects.</p>
 	</details></td>
 	</tr>
 <tr><td>February 13</td>
@@ -53,19 +53,20 @@ use_math: true
 <tr><td><strong>2:45-3:45pm on Thursday, Feb 26 in Mathematics 520</strong></td>
 	<td><a href="https://riveramanuel.com/">Manuel Rivera</a> (Purdue University) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>String topology: old and new</summary>
+	<p class="abstract"><i>Abstract:</i> String topology studies algebraic structures arising from the interactions of loops and paths on a geometric space. The subject originated in 1999 with work of Chas and Sullivan who discovered that classical Poincaré duality and intersection theory has a rich manifestation on the homology of the free loop space, recovering structures also appearing in mathematical physics such as BV-algebras, TQFTs, and Lie bialgebras. This insight emerged from the broader question: what characterizes the algebraic topology of manifolds? Since then, string topology has developed into a vibrant area, revealing a wealth of new operations describing string interactions, with deep connections to knot theory, symplectic geometry, homotopy theory, homological algebra, and mathematical physics. In this talk, I will survey some developments from the past decade regarding new understanding of the structure and computations in string topology as well as their significance in other fields of mathematics, with focus on operations that capture geometric information beyond the oriented homotopy type of the underlying manifold. <br>
+	This talk will be followed by a more technical second talk at the CUNY Graduate Center on Friday (<a href="https://www.scottwilsonmath.com/DGTsem.html">details here</a>). </p>
 	</details></td>
 	</tr>
 <tr><td>March 6</td>
-	<td> TBA </td>
+	<td><a href="https://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a> </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>March 13</td>
-	<td> TBA </td>
+	<td><a href="https://ishanina.github.io/">Ishan Levy</a> </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -83,14 +84,14 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>April 3</td>
-	<td> TBA </td>
+	<td><a href="https://tessbouis.com/">Tess Bouis</a> </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>April 10</td>
-	<td> TBA </td>
+	<td>Myungsin Cho </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
