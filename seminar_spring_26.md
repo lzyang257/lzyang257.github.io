@@ -37,10 +37,12 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>February 13</td>
-	<td> TBA </td>
+	<td>Lucy Yang </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Artin—Mazur formal groups and Milne duality via unipotent spectra </summary>
+	<p class="abstract"><i>Abstract:</i> Fix a field $k$ of positive characteristic. We consider the stabilization of Toën's category of affine higher stacks over $k$, referred to as ''unipotent spectra.'' This construction is motivated by stable homotopy-theoretic ideas and gives rise to unipotent stable homotopy groups and unipotent homology, which are new invariants for $k$-schemes valued in unipotent group schemes. <br>
+	We discuss how the formal groups associated to schemes of Artin--Mazur may be recovered from unipotent homology. Further, we consider a variant obtained by restricting to sites of perfect schemes. We show that syntomic cohomology and Milne's arithmetic duality admit natural refinements to this setting. <br> 
+	This is joint work with Shubhodip Mondal and Tasos Moulinos. </p>
 	</details></td>
 	</tr>
 <tr><td>February 20</td>
@@ -59,14 +61,14 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>March 6</td>
-	<td><a href="https://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a> </td>
+	<td><a href="https://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a> (MIT)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>March 13</td>
-	<td><a href="https://ishanina.github.io/">Ishan Levy</a> </td>
+	<td><a href="https://ishanina.github.io/">Ishan Levy</a> (IAS)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
@@ -84,21 +86,21 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>April 3</td>
-	<td><a href="https://tessbouis.com/">Tess Bouis</a> </td>
+	<td><a href="https://tessbouis.com/">Tess Bouis</a> (IAS)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>April 10</td>
-	<td>Myungsin Cho </td>
+	<td><a href="https://sites.google.com/view/myungsin-cho/home?authuser=0">Myungsin Cho</a> (Columbia) </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>April 17</td>
-	<td> <a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> </td>
+	<td> <a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> (UMN) </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
