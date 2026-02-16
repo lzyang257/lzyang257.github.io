@@ -48,8 +48,8 @@ use_math: true
 <tr><td>February 20</td>
 	<td><a href="https://sites.google.com/view/davidchanmath">David Chan</a> (Michigan State University)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Radical and prime ideals of Tambara functors</summary>
+	<p class="abstract"><i>Abstract:</i> Tambara functors are a generalization of commutative rings which model multiplicative structures that arise in equivariant homotopy theory. There is a robust analogy between the algebraic theory of Tambara functors and classical commutative algebra, giving us intuition for how constructions in the equivariant setting should be carried out.   In this talk, I will discuss how some recent results on the theory of radical and prime ideals in Tambara functors. In both cases, parts of the analogy with commutative rings work perfectly, while others parts are more subtle. </p>
 	</details></td>
 	</tr>
 <tr><td><strong>2:45-3:45pm on Thursday, Feb 26 in Mathematics 520</strong></td>
