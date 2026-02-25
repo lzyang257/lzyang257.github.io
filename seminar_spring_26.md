@@ -60,7 +60,7 @@ use_math: true
 	This talk will be followed by a more technical second talk at the CUNY Graduate Center on Friday (<a href="https://www.scottwilsonmath.com/DGTsem.html">details here</a>). </p>
 	</details></td>
 	</tr>
-<tr><td>March 6</td>
+<tr><td><strong>4:30-5:30pm in Mathematics 528</strong> on March 6</td>
 	<td><a href="https://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a> (MIT)</td>
 	<td><details> 
 	<summary>Title</summary>
@@ -115,6 +115,13 @@ use_math: true
 	</tr>
 <tr><td>May 1</td>
 	<td>David Gepner (Johns Hopkins University)</td>
+	<td><details> 
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
+	</details></td>
+	</tr>
+<tr><td>May 8</td>
+	<td><a href="https://spectralscheme.gitlab.io/">Florian Riedel</a> (Copenhagen)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
