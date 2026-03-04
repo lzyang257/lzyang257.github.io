@@ -63,8 +63,8 @@ use_math: true
 <tr><td><strong>4:30-5:30pm in Mathematics 528</strong> on March 6</td>
 	<td><a href="https://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a> (MIT)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Crystallinity in algebraic K-theory</summary>
+	<p class="abstract"><i>Abstract:</i> If R is smooth over Z_p, then the theory of crystalline cohomology ensures that the p-completed deRham cohomology of R depends only on the mod p reduction of R.  In joint work with Levy and Senger, we ask to what extent the p-completed algebraic K-theory of R depends only on R/p, R/p^2, or other p-power reductions of R. </p>
 	</details></td>
 	</tr>
 <tr><td>March 13</td>
