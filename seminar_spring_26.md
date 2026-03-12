@@ -70,8 +70,8 @@ use_math: true
 <tr><td>March 13</td>
 	<td><a href="https://ishanina.github.io/">Ishan Levy</a> (IAS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>The splitting of the Kervaire--Milnor sequence</summary>
+	<p class="abstract"><i>Abstract:</i> The work of Kervaire--Milnor, along with the resolution of the Kervaire invariant one problem describes the group of homotopy spheres in dimensions at least 5 as an extension of two groups. I will describe work in progress with Burklund and Crowley with the goal of showing this extension is always split, completing a program of Brumfiel, and thereby completely reducing the computation of these group of homotopy spheres to that of the stable homotopy groups of spheres. As in the work of Browder, this problem reduces to one in stable homotopy theory: one must prove the mod 2 analog of the Hill--Hopkins--Ravenel nonexistence result of the Kervaire classes.</p>
 	</details></td>
 	</tr>
 <tr><td>March 20</td>
