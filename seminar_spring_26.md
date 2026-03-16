@@ -81,8 +81,9 @@ use_math: true
 <tr><td>March 27</td>
 	<td><a href="https://sites.google.com/view/adelayyz/home">Adela Zhang</a> (University of Copenhagen) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Canonical local to global extensions of TFTs</summary>
+	<p class="abstract"><i>Abstract:</i> We show that any 2D open field theory F extends canonically to an open-closed field theory whose value at the circle is the Hochschild homology of the $\mathrm{E}_1$-Frobenius algebra associated to F. In particular, the open-closed bordism category is obtained by formally adjoining iterated Hochchild homology to the open 2D-bordism category. As a corollary, we identify the space of universal formal operations on the Hochschild homology of $\mathrm{E}_1$-Frobenius algebras to be moduli spaces of punctured surfaces. This is joint work with Barkan and Steinebrunner, and provides a space level refinement of work of Costello (over $\mathbb{Q}$) and Wahl (over $\mathbb{Z}$). <br> <br>
+	In dimension $\infty$, we establish analogous extensions of $\mathrm{E}_\infty$-Frobenius algebras, which are corepresented by the ∞-category Gr of graphs, to the $\infty$-category GrCob of graph cobordisms between spaces. In this case, we show that GrCob is obtained by formally adjoining to Gr the factorization homology of the universal $\mathrm{E}_\infty$-Frobenius algebra over any space X. Thus GrCob parametrizes universal operations among such factorization homologies. This is joint work with Andrea Bianchi.</p>
 	</details></td>
 	</tr>
 <tr><td>April 3</td>
