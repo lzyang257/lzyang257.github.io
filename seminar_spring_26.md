@@ -89,8 +89,8 @@ use_math: true
 <tr><td>April 3</td>
 	<td><a href="https://tessbouis.com/">Tess Bouis</a> (IAS)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>On the universality of motivic cohomology</summary>
+	<p class="abstract"><i>Abstract:</i> A category of motives is an axiomatic framework in which several cohomology theories from algebraic geometry are represented. While Voevodsky's classical framework of motivic homotopy theory focused on $\mathbb{A}^1$-invariant cohomology theories, such as $\ell$-adic étale cohomology, the more recent developments in integral $p$-adic Hodge theory have motivated lots of progress towards a more general theory of non-$\mathbb{A}^1$-motives in which $p$-adic cohomology theories, such as crystalline or prismatic cohomology, are also represented. In this talk, I want to explain how one can formulate a precise universality conjecture for motivic cohomology using the recent progress in prismatic cohomology and in non-$\mathbb{A}^1$-invariant motives, and report on the known cases of this conjecture. This is based on a joint work in progress with Denis-Charles Cisinski and Niklas Kipp.</p>
 	</details></td>
 	</tr>
 <tr><td>April 10</td>
@@ -115,7 +115,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>May 1</td>
-	<td>David Gepner (Johns Hopkins University)</td>
+	<td> - </td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
