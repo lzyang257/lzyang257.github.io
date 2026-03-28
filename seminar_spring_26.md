@@ -103,8 +103,8 @@ use_math: true
 <tr><td>April 17</td>
 	<td> <a href="https://www-users.cse.umn.edu/~cwesterl/">Craig Westerland</a> (UMN) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Braided Koszul duality and Lie algebras</summary>
+	<p class="abstract"><i>Abstract:</i> Braided operads (introduced by Fiedorowicz) are gadgets that control algebraic structures on objects in braided monoidal categories.  There are natural braided analogues of the familiar associative and commutative operads in the symmetric monoidal setting.  While one can define a braided Lie operad by pattern-matching with the symmetric Lie operad, it doesn’t correctly describe the operations on the primitives in a braided Hopf algebra, unlike its symmetric counterpart.  In this talk, I’ll explain how one can come to a correct braided analogue of the Lie operad using Koszul duality for braided operads.  The result has nice interpretations in terms of a Cohen-Macaulay braided partition poset and the dualizing module for the braid groups.</p>
 	</details></td>
 	</tr>
 <tr><td>April 24</td>
