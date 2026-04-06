@@ -96,8 +96,8 @@ use_math: true
 <tr><td>April 10</td>
 	<td><a href="https://sites.google.com/view/myungsin-cho/home?authuser=0">Myungsin Cho</a> (Columbia) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Homological trace methods and Real topological Hochschild homology</summary>
+	<p class="abstract"><i>Abstract:</i> In their foundational work, Bruner and Rognes developed a homological approach to study spectra with $\mathbb{T}$-action and their homotopy fixed points, shifting the input for calculations from homotopy to homology. In this talk, I will discuss a $O(2)$-equivariant enhancement of this homological program, with a focus on Real forms of $\mathrm{THH}$ and topological negative cyclic homology ($\mathrm{TC}^-$). A key ingredient is a Real analogue of the homotopy fixed point spectral sequence for the circle group. This is joint work with Teena Gerhardt, Liam Keenan, Juan Moreno, and J.D. Quigley.</p>
 	</details></td>
 	</tr>
 <tr><td>April 17</td>
