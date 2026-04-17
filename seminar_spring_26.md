@@ -110,8 +110,8 @@ use_math: true
 <tr><td>April 24</td>
 	<td><a href="https://www.utsc.utoronto.ca/people/kupers/">Alexander Kupers</a> (University of Toronto) </td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>On the surjectivity conjecture of Dupont and Monod</summary>
+	<p class="abstract"><i>Abstract:</i> I will report on work-in-progress, joint with Daniil Rudenko and Ismael Sierra, on a conjecture of Dupont and Monod which says for a semisimple Lie group with finite centre the map from bounded continuous cohomology to continuous cohomology is surjective. This uses our work relating the unstable homology of general linear groups of fields to multiple polylogarithms, which may be of independent interest.</p>
 	</details></td>
 	</tr>
 <tr><td>May 1</td>
