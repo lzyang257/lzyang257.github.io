@@ -115,7 +115,7 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>May 1</td>
-	<td> - </td>
+	<td><a href="https://pages.uoregon.edu/lipshitz/">Robert Lipshitz</a> (Oregon/Princeton)</td>
 	<td><details> 
 	<summary>Title</summary>
 	<p class="abstract"><i>Abstract:</i> </p>
