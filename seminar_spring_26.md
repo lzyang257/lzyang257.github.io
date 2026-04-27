@@ -115,10 +115,10 @@ use_math: true
 	</details></td>
 	</tr>
 <tr><td>May 1</td>
-	<td><a href="https://pages.uoregon.edu/lipshitz/">Robert Lipshitz</a> (Oregon/Princeton)</td>
+	<td>-</td>
 	<td><details> 
-	<summary>Legendrian Contact Homotopy</summary>
-	<p class="abstract"><i>Abstract:</i> The Chekanov-Eliashberg dga, or Legendrian contact homology, was the first modern invariant of Legendrian knots in $\mathbb{R}^3$. This talk is a progress report on a project to give a stable homotopy refinement of Legendrian contact homology, inducing operations like Steenrod squares on linearized Legendrian contact homology. Like Legendrian contact homology, our construction is essentially combinatorial. After recalling the basics of Legendrian knot theory and Legendrian contact homology, we will outline our program to refine it, sketch its status, and perhaps describe some examples. This is joint with Lenhard Ng and Sucharit Sarkar.</p>
+	<summary>Title</summary>
+	<p class="abstract"><i>Abstract:</i> </p>
 	</details></td>
 	</tr>
 <tr><td>May 8</td>
