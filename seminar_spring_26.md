@@ -124,8 +124,8 @@ use_math: true
 <tr><td>May 8</td>
 	<td><a href="https://spectralscheme.gitlab.io/">Florian Riedel</a> (Copenhagen)</td>
 	<td><details> 
-	<summary>Title</summary>
-	<p class="abstract"><i>Abstract:</i> </p>
+	<summary>Points of $E_\infty$ rings in positive characteristic</summary>
+	<p class="abstract"><i>Abstract:</i> Given a non-zero $E_\infty$ ring $A$ and any number $n \gt 0$ we ask: Can a free $A$-module on n-many cells admit a cell structure consisting of $k$-many cells for $k \lt n$? For non-connective rings, this is difficult to attack directly. However, If $A$ has a non-zero $K(h)$-localization for some finite $h$, the answer is no by the chromatic Nullstellensatz. We discuss how to deal with the “infinite height” case, and give a further negative answer to the question for rings with nonzero $\mathbb{F}_2$-homology. To do this, we investigate nilpotence  phenomena for $E_\infty$-$\mathbb{F}_p$-algebras for any prime $p$ and show that, unlike in the finite height case, the situation differs drastically depending on whether the prime is odd or even.</p>
 	</details></td>
 	</tr>
 </table>
