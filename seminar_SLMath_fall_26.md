@@ -12,6 +12,7 @@ use_math: true
 The goal of this seminar is to study Clausen's recent <a href="https://arxiv.org/abs/2605.11950">paper</a> on Weil--Moore anima. 
 A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_anima_learning_seminar.pdf).
 
+<h4>Schedule</h4>
 <table>
 <tr><td>Date</td><td>Time</td> 
 	<td>Speaker</td>
