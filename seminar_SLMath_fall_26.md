@@ -5,7 +5,7 @@ permalink: /organization-and-activities/weil_moore/
 main_nav: false
 use_math: true
 ---
-<h4>Where:</h4> Eisenbud Auditorium at <a href="https://www.slmath.org/">SLMath</a>
+<h4>Where:</h4> Eisenbud Auditorium at <a href="https://www.slmath.org">SLMath</a>
 <!-- <h4>When:</h4> Fridays 9am-10:30am-->
 
 The goal of this seminar is to study Clausen's recent <a href="https://arxiv.org/abs/2605.11950">paper</a> on Weil--Moore anima. 
@@ -14,7 +14,7 @@ A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_an
 <table>
 <tr><td>Date</td><td>Time</td> 
 	<td>Speaker</td>
-	<td style="width:60%">Title & Abstract</td>
+	<td style="width:50%">Title & Abstract</td>
 	</tr>
 <tr><td>Wednesday, Sept 9th</td><td>10am</td>
 	<td>Peter Haine</td>
