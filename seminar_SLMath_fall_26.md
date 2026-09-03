@@ -8,6 +8,7 @@ use_math: true
 <h4>Where:</h4> Eisenbud Auditorium at <a href="https://www.slmath.org">SLMath</a>
 <!-- <h4>When:</h4> Fridays 9am-10:30am-->
 
+<h4>What:</h4> 
 The goal of this seminar is to study Clausen's recent <a href="https://arxiv.org/abs/2605.11950">paper</a> on Weil--Moore anima. 
 A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_anima_learning_seminar.pdf).
 
