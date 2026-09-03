@@ -45,7 +45,7 @@ A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_an
 	</details></td>
 	</tr>
 <tr><td>Thursday, Sept 10th </td><td>4pm</td>
-	<td>Speaker: TBD </td>
+	<td>TBD </td>
 	<td><details> 
 	<summary>Talk 5</summary>
 	<p class="abstract"><i>Abstract:</i>  </p>
@@ -66,7 +66,7 @@ A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_an
 	</details></td>
 	</tr>
 <tr><td>Monday, Sept 14th </td><td>10am</td>
-	<td>Speaker: TBD </td>
+	<td>TBD </td>
 	<td><details> 
 	<summary>Talk 8</summary>
 	<p class="abstract"><i>Abstract:</i>  </p>
