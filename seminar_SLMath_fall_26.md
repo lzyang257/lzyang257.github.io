@@ -2,7 +2,7 @@
 layout: page
 title: Learning seminar on Weil--Moore anima
 permalink: /organization-and-activities/weil_moore/
-main_nav: false
+main_nav: true
 use_math: true
 ---
 <h4>Where:</h4> Eisenbud Auditorium at <a href="https://www.slmath.org">SLMath</a>
@@ -48,7 +48,7 @@ All talks are 1 hour long.
 	</details></td>
 	</tr>
 <tr><td>Thursday, Sept 10th </td><td>4pm</td>
-	<td>TBD </td>
+	<td>Klaus Mattis </td>
 	<td><details> 
 	<summary>Talk 5</summary>
 	<p class="abstract"><i>Abstract:</i>  </p>
