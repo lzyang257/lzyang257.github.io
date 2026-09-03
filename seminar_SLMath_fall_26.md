@@ -13,6 +13,7 @@ The goal of this seminar is to study Clausen's recent <a href="https://arxiv.org
 A preliminary syllabus may be found [here]({{site.baseurl}}/assets/Weil_Moore_anima_learning_seminar.pdf).
 
 <h4>Schedule</h4>
+All talks are 1 hour long. 
 <table>
 <tr><td>Date</td><td>Time</td> 
 	<td>Speaker</td>
